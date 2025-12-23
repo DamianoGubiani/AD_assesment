@@ -1,2 +1,3 @@
-# AD_assesment
-this is a repository that explain and how to fix , the most common Active Directory miss configuration
+# AD assesment
+---
+this is a repository that explain the most common Active Directory miss configuration and how to fix them
